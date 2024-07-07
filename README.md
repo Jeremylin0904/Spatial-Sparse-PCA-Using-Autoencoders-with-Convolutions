@@ -16,9 +16,9 @@ The repository is structured as follows:
 ## Data
 
 - `SST`: Folder containing the Sea Surface Temperature dataset (data.rar).
-- `1D`: Folder containing data for the 1D linear simulation.
-- `2D`: Folder containing data for the 2D linear simulation.
-- `2Dnonlinear`: Folder containing data for the 2D nonlinear simulation.
+- `1D`: Folder containing data for the 1D linear simulation results.
+- `2D`: Folder containing data for the 2D linear simulation results.
+- `2Dnonlinear`: Folder containing data for the 2D nonlinear simulation results.
 
 ## Instructions
 
